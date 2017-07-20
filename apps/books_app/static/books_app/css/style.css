@@ -1,0 +1,10 @@
+div {
+	width: 30%;
+	border: 1px solid black;
+	display: inline-block;
+	vertical-align: top;
+	padding: 2em;
+}
+h3 {
+	margin-top: 0;
+}
